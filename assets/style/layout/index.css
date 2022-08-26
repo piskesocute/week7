@@ -4,17 +4,20 @@ ul {
   margin: 0;
   padding: 0;
 }
+
 img {
   max-width: 100%;
   height: auto;
   display: block;
 }
+
 a {
   vertical-align: middle;
   text-decoration: none;
 }
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial,
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+/*# sourceMappingURL=index.css.map */
